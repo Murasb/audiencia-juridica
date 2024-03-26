@@ -1,0 +1,28 @@
+body{
+    /*background-color: gray;*/
+    background: rgb(51,50,50);
+    background: linear-gradient(180deg, rgba(51,50,50,1) 0%, rgba(80,80,80,1) 80%, rgba(122,122,122,1) 100%);
+    text-align: center;
+    width:100%;
+    /*height: 1000px;*/
+}
+
+.textoPrincipal, .textoFooter{
+    color: white !important;
+    font-family: 'Andale Mono', AndaleMono, monospace;
+    font-weight: bold;
+}
+
+.headerEscuro{
+    /*background-color: rgb(34, 32, 32); */
+    background: rgb(0,0,0);
+    background: linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(38,38,38,1) 83%, rgba(96,96,96,1) 100%);
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.passo-a-passo{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
