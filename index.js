@@ -1,5 +1,5 @@
-const telefoneVara = '551134894458'
-let urlContato = `https://wa.me/${telefoneVara}`
+const telefoneForum = '551134894458'
+const urlContato = `https://wa.me/${telefoneForum}`
 
 const fncAbreContato = () => {
     console.log('abrindo...')
